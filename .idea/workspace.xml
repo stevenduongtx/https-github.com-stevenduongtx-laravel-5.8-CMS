@@ -2,456 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e422e1-e9d1-4d1a-b095-2ca10c14a1ae" name="Default Changelist" comment="Can not add disqus to this template">
-      <change afterPath="$PROJECT_DIR$/public/css/page.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/et-line.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/et-line.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/et-line.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/et-line.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logo-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/page.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/blog/show.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/blog.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/users/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/page.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/page.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/page.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/style.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/css/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/et-line.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/et-line.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/et-line.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/et-line.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/app/badge-apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/app/badge-google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/app/map-marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/app/photoswipe/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/app/photoswipe/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/app/photoswipe/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/avatar/thethemeio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/bg/pattern-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/icon/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/icon/dog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/icon/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/icon/light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/icon/planet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/icon/rocket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/icon/rocket2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/bootstrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/theadmin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/thedocs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/theguide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/thejobs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/thesaas-wp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/thesaas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/theshots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/logo/thesplash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/og-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/partner/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/partner/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/partner/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/partner/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/partner/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/partner/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/partner/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/portfolio/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/block-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/blocks-and-elements.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-finance-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-listing-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-listing-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-marketing-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-marketing-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-saas-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-saas-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-saas-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-saas-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-software-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-software-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/demo-software-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/dribbble-9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/feature-tablet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-color.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-gradient.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-parallax.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-particle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-typing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/header-video.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/icons-etline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/icons-fontawesome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/icons-themify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/ipad-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/ipad-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/laptop-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/laptop-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/mac-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/phone-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/phone-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/phone-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/phone-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/shot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/shot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/shot-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/preview/shot-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/shop/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/thumb/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/vector/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/video/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/img/video/1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/js/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/js/page.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/js/page.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/js/page.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/PHPMailer/PHPMailerAutoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/PHPMailer/class.phpmailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/PHPMailer/class.phpmaileroauth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/PHPMailer/class.phpmaileroauthgoogle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/PHPMailer/class.pop3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/PHPMailer/class.smtp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/PHPMailer/get_oauth_token.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/assets/php/sendmail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/career.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/counter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/cover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/cta.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/download.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/explore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/feature-text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/feature.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/offcanvas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/partner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/popup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/pricing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/process.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/service.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/subscribe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/team.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/testimonial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/block/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/blog/classic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/blog/grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/blog/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/blog/post-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/blog/post-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/blog/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/finance-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/listing-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/listing-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/marketing-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/marketing-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/saas-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/saas-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/saas-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/saas-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/software-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/software-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/demo/software-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/articles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-basic-get-started.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-basic-plugin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-basic-update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-basic-what.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-expert-get-started.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-expert-gulp-tasks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-expert-plugin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-expert-remove-vendor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-expert-update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-expert-what.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-start-directory-structure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-start-get-started.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/docs/kb-start-html-structure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/about-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/about-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/about-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/career-single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/career.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/coming-soon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/contact-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/contact-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/contact-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/error-404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/how-it-works.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/portfolio-single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/pricing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/service-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/service-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/terms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/user-login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/user-recover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/page/user-register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/shop/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/shop/checkout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/shop/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/shop/item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/shop/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/alert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/badge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/card.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/color.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/constellation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/countdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/countup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/dropdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/granim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/icon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/lightbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/misc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/offcanvas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/overlay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/popup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/pricing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/process.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/progress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/scroll.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/shuffle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/social.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/tab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/topbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/typing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/typography.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/utility.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/uikit/video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_09_231120_create_posts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_10_09_231120_create_posts_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/show.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -465,18 +16,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PostsController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2310">
-              <caret line="116" column="27" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
-              <folding>
-                <element signature="e#39#56#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2982">
@@ -486,9 +25,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
+            <state relative-caret-position="821">
               <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
               <folding>
                 <element signature="e#22#39#0#PHP" expanded="true" />
@@ -498,48 +46,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/posts/create.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/blog/show.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="95" column="66" lean-forward="true" selection-start-line="95" selection-start-column="66" selection-end-line="95" selection-end-column="66" />
+            <state relative-caret-position="251">
+              <caret line="78" column="67" selection-start-line="78" selection-start-column="67" selection-end-line="78" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/blog.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4095">
-              <caret line="208" column="31" selection-start-line="208" selection-start-column="31" selection-end-line="208" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="e#40#57#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TagsController.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Blog/PostsController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#45#62#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="840">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -547,19 +66,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/posts/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="-579">
               <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UsersController.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#40#89#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="-145" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/disqus.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="184" column="28" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -621,7 +163,6 @@
         <option value="$PROJECT_DIR$/config/disqus.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/resources/views/blog/show.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/vendor/pagination/simple-default.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/vendor/pagination/simple-bootstrap-4.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/blog.blade.php" />
@@ -635,6 +176,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Blog/PostsController.php" />
         <option value="$PROJECT_DIR$/app/Post.php" />
         <option value="$PROJECT_DIR$/resources/views/posts/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/blog/show.blade.php" />
       </list>
     </option>
   </component>
@@ -975,17 +517,18 @@
       <workItem from="1571998494871" duration="136000" />
       <workItem from="1571998837664" duration="10000" />
       <workItem from="1572061605050" duration="255000" />
+      <workItem from="1572192697219" duration="606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189257000" />
+    <option name="totallyTimeSpent" value="189863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2866324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29048842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1000,7 +543,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2888889" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2888889" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1031,13 +574,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme/assets/img/partner/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1149,30 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/disqus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/blog/show.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
-          <folding>
-            <element signature="e#154#222#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/vendor/pagination/simple-bootstrap-4.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1187,34 +699,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="184" column="28" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/blog.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
-          <folding>
-            <element signature="e#935#1721#0#HTML" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1274,23 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2982">
-          <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          <folding>
-            <element signature="e#22#39#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4095">
@@ -1321,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/posts/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UsersController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1340,7 +804,78 @@
     <entry file="file://$PROJECT_DIR$/resources/views/posts/create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="95" column="66" lean-forward="true" selection-start-line="95" selection-start-column="66" selection-end-line="95" selection-end-column="66" />
+          <caret line="95" column="66" selection-start-line="95" selection-start-column="66" selection-end-line="95" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/blog.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/posts/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/disqus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="184" column="28" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2982">
+          <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/blog/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="78" column="67" selection-start-line="78" selection-start-column="67" selection-end-line="78" selection-end-column="67" />
         </state>
       </provider>
     </entry>
