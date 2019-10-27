@@ -10,8 +10,10 @@ use Illuminate\Support\Facades\Storage;
 class Post extends Model
 {
     use SoftDeletes;
+
+    protected $dates=['published_at'];
     protected $fillable=[
-        'title','description','content','image','published_at','category_id'
+        'title','description','content','image','published_at','category_id','user_id'
     ];
 
     /**
@@ -31,5 +33,22 @@ class Post extends Model
     }
     public function hasTags($tagid){
         return in_array($tagid,$this->tags->pluck('id')->toArray());
+    }
+
+    public function user(){
+        return $this->belongsTo(User::class);
+    }
+
+    public function scopePublished($query){
+
+        return $query->where('published_at','<=',now());
+    }
+    public function scopeSearched($query){
+        $search=request()->query('search');
+        if(!$search){
+            return $query->published();
+        }
+        return $query->published()->where('title','LIKE',"%{$search}%");
+
     }
 }
